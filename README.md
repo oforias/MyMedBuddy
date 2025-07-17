@@ -84,4 +84,9 @@ lib/
 - All notification code has been removed for stability.
 - No custom widgets or service helpers are present, but folders are ready for future use.
 
+
 ---
+
+## **GitHub**
+
+[https://github.com/oforias/MyMedBuddy](https://github.com/oforias/MyMedBuddy)
